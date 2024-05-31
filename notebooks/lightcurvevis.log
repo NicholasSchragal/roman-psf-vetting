@@ -1,0 +1,371 @@
+Saving to /home/ntschragal/uasal/roman-vetting/data/candidate_reports/
+Searching for light curve data for HD432... Found 15 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd432/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd432/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+Downloading data for search result 8... Download complete.
+Downloading data for search result 9... Download complete.
+Downloading data for search result 10... Download complete.
+Downloading data for search result 11... Download complete.
+Downloading data for search result 12... Download complete.
+Downloading data for search result 13... Download complete.
+Downloading data for search result 14... Download complete.
+============================================
+
+Searching for light curve data for HD8538... Found 6 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd8538/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd8538/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+============================================
+
+Searching for light curve data for HD23630... Found 16 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd23630/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd23630/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... An error occurred in downloading the data for hd23630 result 1: File /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd23630/lc_data/mastDownload/HLSP/hlsp_halo_k2_llc_200007767-c4_kepler_v1_lc/hlsp_halo_k2_llc_200007767-c4_kepler_v1_lc.fits does not have a FLUX column, is this a target pixel file?
+Downloading data for search result 2... An error occurred in downloading the data for hd23630 result 2: Data product f/home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd23630/lc_data/mastDownload/HLSP/hlsp_k2sc_k2_llc_200007767-c04_kepler_v2_lc/hlsp_k2sc_k2_llc_200007767-c04_kepler_v2_lc.fits of type K2SC is not supported in this version of Lightkurve.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+Downloading data for search result 8... Download complete.
+Downloading data for search result 9... Download complete.
+Downloading data for search result 10... Download complete.
+Downloading data for search result 11... Download complete.
+Downloading data for search result 12... Download complete.
+Downloading data for search result 13... Download complete.
+Downloading data for search result 14... Download complete.
+Downloading data for search result 15... Download complete.
+============================================
+
+Searching for light curve data for HD33111... Found 11 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd33111/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd33111/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+An error occurred in creating the plot for hd33111 result 4: aspect must be finite and positive 
+============================================
+
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+An error occurred in creating the plot for hd33111 result 6: aspect must be finite and positive 
+============================================
+
+Downloading data for search result 7... Download complete.
+An error occurred in creating the plot for hd33111 result 7: aspect must be finite and positive 
+============================================
+
+Downloading data for search result 8... Download complete.
+An error occurred in creating the plot for hd33111 result 8: aspect must be finite and positive 
+============================================
+
+Downloading data for search result 9... Download complete.
+Downloading data for search result 10... Download complete.
+============================================
+
+Searching for light curve data for HD35468... Found 9 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd35468/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd35468/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+Downloading data for search result 8... Download complete.
+============================================
+
+Searching for light curve data for HD35497... Found 13 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd35497/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd35497/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+Downloading data for search result 8... Download complete.
+Downloading data for search result 9... Download complete.
+Downloading data for search result 10... Download complete.
+Downloading data for search result 11... Download complete.
+Downloading data for search result 12... Download complete.
+============================================
+
+Searching for light curve data for HD36673... Found 1 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd36673/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd36673/lc_figs/.
+Downloading data for search result 0... Download complete.
+============================================
+
+Searching for light curve data for HD58350... Found 8 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd58350/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd58350/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+============================================
+
+Searching for light curve data for HD58715... Found 5 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd58715/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd58715/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+============================================
+
+Searching for light curve data for HD67523... Found 12 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd67523/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd67523/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+An error occurred in creating the plot for hd67523 result 7: output array is read-only
+============================================
+
+Downloading data for search result 8... Download complete.
+Downloading data for search result 9... Download complete.
+Downloading data for search result 10... Download complete.
+An error occurred in creating the plot for hd67523 result 10: aspect must be finite and positive 
+============================================
+
+Downloading data for search result 11... Download complete.
+============================================
+
+Searching for light curve data for HD87901... Found 2 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd87901/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd87901/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+============================================
+
+Searching for light curve data for HD95418... Found 8 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd95418/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd95418/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+============================================
+
+Searching for light curve data for HD97603... Found 10 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd97603/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd97603/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+Downloading data for search result 8... Download complete.
+Downloading data for search result 9... Download complete.
+============================================
+
+Searching for light curve data for HD102647... Found 14 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd102647/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd102647/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+An error occurred in creating the plot for hd102647 result 7: aspect must be finite and positive 
+============================================
+
+Downloading data for search result 8... Download complete.
+Downloading data for search result 9... Download complete.
+Downloading data for search result 10... Download complete.
+Downloading data for search result 11... Download complete.
+Downloading data for search result 12... Download complete.
+An error occurred in creating the plot for hd102647 result 12: aspect must be finite and positive 
+============================================
+
+Downloading data for search result 13... Download complete.
+An error occurred in creating the plot for hd102647 result 13: aspect must be finite and positive 
+============================================
+
+============================================
+
+Searching for light curve data for HD108767... Found 10 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd108767/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd108767/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+Downloading data for search result 8... Download complete.
+An error occurred in creating the plot for hd108767 result 8: aspect must be finite and positive 
+============================================
+
+Downloading data for search result 9... Download complete.
+============================================
+
+Searching for light curve data for HD112185... Found 20 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd112185/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd112185/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+Downloading data for search result 8... Download complete.
+Downloading data for search result 9... Download complete.
+Downloading data for search result 10... Download complete.
+Downloading data for search result 11... Download complete.
+No data found for target "hd175191".
+No data found for target "hd218045".
+No data found for target "hd149757".
+Downloading data for search result 12... Download complete.
+Downloading data for search result 13... Download complete.
+Downloading data for search result 14... Download complete.
+Downloading data for search result 15... Download complete.
+Downloading data for search result 16... Download complete.
+Downloading data for search result 17... Download complete.
+Downloading data for search result 18... Download complete.
+Downloading data for search result 19... Download complete.
+An error occurred in downloading the data for hd112185 result 19: All-NaN slice encountered
+============================================
+
+Searching for light curve data for HD120315... Found 21 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd120315/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd120315/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+Downloading data for search result 8... Download complete.
+Downloading data for search result 9... Download complete.
+Downloading data for search result 10... Download complete.
+Downloading data for search result 11... Download complete.
+Downloading data for search result 12... Download complete.
+Downloading data for search result 13... Download complete.
+Downloading data for search result 14... Download complete.
+Downloading data for search result 15... Download complete.
+Downloading data for search result 16... Download complete.
+Downloading data for search result 17... Download complete.
+Downloading data for search result 18... Download complete.
+Downloading data for search result 19... Download complete.
+Downloading data for search result 20... Download complete.
+============================================
+
+Searching for light curve data for HD175191... Found 0 results
+Did not find any light curve results for hd175191, continuing to next candidate...
+============================================
+
+Searching for light curve data for HD203280... Found 29 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd203280/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd203280/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+Downloading data for search result 8... Download complete.
+Downloading data for search result 9... Download complete.
+Downloading data for search result 10... Download complete.
+Downloading data for search result 11... Download complete.
+Downloading data for search result 12... Download complete.
+Downloading data for search result 13... Download complete.
+Downloading data for search result 14... Download complete.
+Downloading data for search result 15... Download complete.
+Downloading data for search result 16... Download complete.
+Downloading data for search result 17... Download complete.
+Downloading data for search result 18... Download complete.
+Downloading data for search result 19... Download complete.
+Downloading data for search result 20... Download complete.
+Downloading data for search result 21... Download complete.
+Downloading data for search result 22... Download complete.
+Downloading data for search result 23... Download complete.
+Downloading data for search result 24... Download complete.
+Downloading data for search result 25... Download complete.
+Downloading data for search result 26... Download complete.
+Downloading data for search result 27... Download complete.
+Downloading data for search result 28... Download complete.
+============================================
+
+Searching for light curve data for HD218045... Found 0 results
+Did not find any light curve results for hd218045, continuing to next candidate...
+============================================
+
+Searching for light curve data for HD149757... Found 0 results
+Did not find any light curve results for hd149757, continuing to next candidate...
+============================================
+
+Searching for light curve data for HD186882... Found 21 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd186882/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd186882/lc_figs/.
+Downloading data for search result 0... Download complete.
+An error occurred in creating the plot for hd186882 result 0: aspect must be finite and positive 
+============================================
+
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+Downloading data for search result 6... Download complete.
+Downloading data for search result 7... Download complete.
+Downloading data for search result 8... Download complete.
+Downloading data for search result 9... Download complete.
+Downloading data for search result 10... Download complete.
+Downloading data for search result 11... Download complete.
+Downloading data for search result 12... Download complete.
+Downloading data for search result 13... Download complete.
+Downloading data for search result 14... Download complete.
+Downloading data for search result 15... Download complete.
+Downloading data for search result 16... Download complete.
+Downloading data for search result 17... Download complete.
+Downloading data for search result 18... Download complete.
+Downloading data for search result 19... Download complete.
+Downloading data for search result 20... Download complete.
+============================================
+
+Searching for light curve data for HD197345... Found 6 results
+Light curves will be downloaded into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd197345/lc_data/ and figures will be saved into /home/ntschragal/uasal/roman-vetting/data/candidate_reports/hd197345/lc_figs/.
+Downloading data for search result 0... Download complete.
+Downloading data for search result 1... Download complete.
+Downloading data for search result 2... Download complete.
+An error occurred in creating the plot for hd197345 result 2: aspect must be finite and positive 
+============================================
+
+Downloading data for search result 3... Download complete.
+Downloading data for search result 4... Download complete.
+Downloading data for search result 5... Download complete.
+============================================
+
+Light curve generation completed in: 16.8 minutes and encountered 18 issues.
