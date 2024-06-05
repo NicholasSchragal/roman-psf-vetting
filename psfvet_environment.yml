@@ -1,0 +1,15 @@
+name: psfvet
+channels:
+  - defaults
+  - conda-forge
+  - astropy
+dependencies:
+  - numpy
+  - matplotlib
+  - astropy
+  - astroquery
+  - ipykernel
+  - astroplan
+  - pandas
+  - lightkurve
+
